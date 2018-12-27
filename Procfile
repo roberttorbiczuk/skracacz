@@ -1,0 +1,1 @@
+web: gunicorn skracacz.wsgi --log-file -
